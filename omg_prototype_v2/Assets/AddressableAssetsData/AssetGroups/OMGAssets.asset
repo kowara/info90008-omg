@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: OMGAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: OMGAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6d89275aefdfe3841be36af8dc296ab6
+  m_SerializeEntries:
+  - m_GUID: 1c70048e0902dbd438e0b88b11f9a85f
+    m_Address: Card/Sample.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: 1c70048e0902dbd438e0b88b11f9a85f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 1c70048e0902dbd438e0b88b11f9a85f, type: 3}
+  - m_GUID: 4c332bb3ad5335e41b18bcfae46b117e
+    m_Address: CardCSV.csv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4900000, guid: 4c332bb3ad5335e41b18bcfae46b117e, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: 4c332bb3ad5335e41b18bcfae46b117e, type: 3}
+  - m_GUID: 5e60e7e1362977b4483ebc38b3d77966
+    m_Address: Card/Wheat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: 5e60e7e1362977b4483ebc38b3d77966, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 5e60e7e1362977b4483ebc38b3d77966, type: 3}
+  - m_GUID: 74086e57945751d479a9821871337959
+    m_Address: Card/Charburner.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: 74086e57945751d479a9821871337959, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 74086e57945751d479a9821871337959, type: 3}
+  - m_GUID: 770229d3bc8f3e147b1b47448bacf7cf
+    m_Address: Graphics/Halfsun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 770229d3bc8f3e147b1b47448bacf7cf, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 770229d3bc8f3e147b1b47448bacf7cf, type: 3}
+  - m_GUID: 7b88f8b236cefb543901895770dbf63b
+    m_Address: Card/Cotton.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: 7b88f8b236cefb543901895770dbf63b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7b88f8b236cefb543901895770dbf63b, type: 3}
+  - m_GUID: 8ce09b2a282eb074bbe61ca42bb20a73
+    m_Address: Card/Wood.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: 8ce09b2a282eb074bbe61ca42bb20a73, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8ce09b2a282eb074bbe61ca42bb20a73, type: 3}
+  - m_GUID: a336e46b93c290f41aa96e84e8c34f9d
+    m_Address: Card/Stone.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: a336e46b93c290f41aa96e84e8c34f9d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a336e46b93c290f41aa96e84e8c34f9d, type: 3}
+  - m_GUID: bad0058ee0b41484596124ab61945d21
+    m_Address: Card/Closed.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: bad0058ee0b41484596124ab61945d21, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: bad0058ee0b41484596124ab61945d21, type: 3}
+  - m_GUID: cd074211ab270f948a6a4fc486f4ea39
+    m_Address: Card/Worker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: cd074211ab270f948a6a4fc486f4ea39, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: cd074211ab270f948a6a4fc486f4ea39, type: 3}
+  - m_GUID: ddcaeede492c9de44b035ce321804394
+    m_Address: Card/Clay.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - card
+    m_MainAsset: {fileID: 2800000, guid: ddcaeede492c9de44b035ce321804394, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ddcaeede492c9de44b035ce321804394, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 65ab103a7e310fa41bc09b543cdd515d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a099c8f6c7376d5489c2f244d6a09e86, type: 2}
+    - {fileID: 11400000, guid: 5e8fbdf0e4b14834f8fbcae01f823cad, type: 2}
